@@ -33,22 +33,28 @@ An educational website which can potentially bring changes to the current learni
 
 <h3>Application Images</h3>
 
-Landing Page Of the Application
-![Landing Page](https://user-images.githubusercontent.com/63536585/115154881-c2e30e00-a09a-11eb-8ccd-eff647dd5180.png) \
+<h4>Landing Page Of the Application</h4>
 
-Guidelines for a User to upload a course
-![Guidelines for a User to upload a course](https://user-images.githubusercontent.com/63536585/115154936-1b1a1000-a09b-11eb-8cb0-f1ae22ac3347.png) \
+![Landing Page](https://user-images.githubusercontent.com/63536585/115154881-c2e30e00-a09a-11eb-8ccd-eff647dd5180.png) 
 
-Insertion of a New Course
-![Insertion of a New Course](https://user-images.githubusercontent.com/63536585/115154916-f58d0680-a09a-11eb-8554-fd29dbe21cfc.png) \
+<h4>Guidelines for a User to upload a course</h4>
 
-Insertion of weekly videos in the newly generated Course
-![Insertion of weekly videos in the newly generated Course](https://user-images.githubusercontent.com/63536585/115154971-47ce2780-a09b-11eb-8697-8ec764178a6e.png) \
+![Guidelines for a User to upload a course](https://user-images.githubusercontent.com/63536585/115154936-1b1a1000-a09b-11eb-8cb0-f1ae22ac3347.png) 
 
-List of courses category wise
-![List of courses category wise](https://user-images.githubusercontent.com/63536585/115154992-659b8c80-a09b-11eb-9d00-494ae7967ad5.png) \
+<h4>Insertion of a New Course</h4>
 
-Course Display
+![Insertion of a New Course](https://user-images.githubusercontent.com/63536585/115154916-f58d0680-a09a-11eb-8554-fd29dbe21cfc.png) 
+
+<h4>Insertion of weekly videos in the newly generated Course</h4>
+
+![Insertion of weekly videos in the newly generated Course](https://user-images.githubusercontent.com/63536585/115154971-47ce2780-a09b-11eb-8697-8ec764178a6e.png) 
+
+<h4>List of courses category wise</h4>
+
+![List of courses category wise](https://user-images.githubusercontent.com/63536585/115154992-659b8c80-a09b-11eb-9d00-494ae7967ad5.png) 
+
+<h4>Course Display</h4>
+
 ![Course Display](https://user-images.githubusercontent.com/63536585/115155031-9380d100-a09b-11eb-959d-d73213086e4e.png) 
 
 <h3>Videos</h3>
