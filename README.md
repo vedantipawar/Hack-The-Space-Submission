@@ -1,6 +1,9 @@
 # Hack-The-Space-Submission
 
 This repository consists of our submission for Hack-The-Space Hackathon conducted by DSC UMIT, DSC RIT, DSC QU, DSC GGI.
+<h2>Group Members</h2>
+
+[Janhavi Choudhari](https://github.com/Janhavikc)   |  [Aparna Naik](https://github.com/aparna0522)   |   [Vedanti Pawar](https://github.com/vedantipawar)
 
 <h2>Project Description</h2>
 <b>Creators:</b> Trio of enthusiastic and motivated students who want to innovate and create something essential and useful for the student community!! :)
@@ -18,3 +21,19 @@ An educational website which can potentially bring changes to the current learni
 
 <b>Enrollment Microservice</b> will basically transfer the api request to a third party payment service and that will take care of all the payments made by the user and accordingly help in enabling the access for the particular course for the user.
 
+<h4>Uniqueness</h4>
+
+1. This application allows any user to upload his course so that others can learn from the same course. (User perspective)
+2. This application uses Microservices architecture which makes it scalable, reliant and robust as compared to Monolithic architectured applications. (Technology perspective)
+
+<h4>Future Work</h4>
+
+1. Helping peers to interact with each other and resolve their doubts. They can connect with other peers who are learning the same course. 
+2. Creation of discussions forum. 
+3. Adding some extra features like creation of quizes for easy evaluation. 
+
+<h5>Videos</h5>
+
+1. User Microservice: 
+2. Course Microservice:
+3. Enrollment Microservice:
