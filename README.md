@@ -70,7 +70,7 @@ An educational website which can potentially bring changes to the current learni
 ![Course Display](https://user-images.githubusercontent.com/63536585/115155031-9380d100-a09b-11eb-959d-d73213086e4e.png) 
 
 
-<h3>Videos</h3>
+<h3>Detailed Videos(Video length>3mins)</h3>
 
 1. User Microservice: https://drive.google.com/file/d/1EmapTouUb0iPVfBJ29Hpdbj1iDIWY6cs/view?usp=sharing
 3. Course Microservice:
