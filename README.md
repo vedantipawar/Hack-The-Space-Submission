@@ -37,6 +37,14 @@ An educational website which can potentially bring changes to the current learni
 
 ![Landing Page](https://user-images.githubusercontent.com/63536585/115154881-c2e30e00-a09a-11eb-8ccd-eff647dd5180.png) 
 
+<h4>Registration Page</h4>
+
+![Registration Page](https://user-images.githubusercontent.com/36110304/115156398-b7471580-a0a1-11eb-8486-500e445e6860.png)
+
+<h4>Login Page</h4>
+
+![Login Page](https://user-images.githubusercontent.com/36110304/115156423-df367900-a0a1-11eb-8adf-b1347371fa93.png)
+
 <h4>Guidelines for a User to upload a course</h4>
 
 ![Guidelines for a User to upload a course](https://user-images.githubusercontent.com/63536585/115154936-1b1a1000-a09b-11eb-8cb0-f1ae22ac3347.png) 
@@ -49,6 +57,10 @@ An educational website which can potentially bring changes to the current learni
 
 ![Insertion of weekly videos in the newly generated Course](https://user-images.githubusercontent.com/63536585/115154971-47ce2780-a09b-11eb-8697-8ec764178a6e.png) 
 
+<h4>Skills That a student will gain after completion of that course</h4>
+
+![skill_info](https://user-images.githubusercontent.com/63536585/115156278-1d7f6880-a0a1-11eb-8dfa-84bf15cbab31.png)
+
 <h4>List of courses category wise</h4>
 
 ![List of courses category wise](https://user-images.githubusercontent.com/63536585/115154992-659b8c80-a09b-11eb-9d00-494ae7967ad5.png) 
@@ -57,10 +69,11 @@ An educational website which can potentially bring changes to the current learni
 
 ![Course Display](https://user-images.githubusercontent.com/63536585/115155031-9380d100-a09b-11eb-959d-d73213086e4e.png) 
 
+
 <h3>Videos</h3>
 
 1. User Microservice: 
-2. Course Microservice:
-3. Enrollment Microservice:
+3. Course Microservice:
+4. Enrollment Microservice:
 
 Integration of these microservices is under progress.
