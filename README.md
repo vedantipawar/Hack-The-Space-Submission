@@ -31,6 +31,9 @@ An educational website which can potentially bring changes to the current learni
 2. Creation of discussions forum. 
 3. Adding some extra features like creation of quizes for easy evaluation. 
 
+<h3>Application Images</h3>
+![index](https://user-images.githubusercontent.com/63536585/115154881-c2e30e00-a09a-11eb-8ccd-eff647dd5180.png)
+
 <h3>Videos</h3>
 
 1. User Microservice: 
