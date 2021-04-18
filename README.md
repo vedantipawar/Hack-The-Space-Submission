@@ -73,7 +73,7 @@ An educational website which can potentially bring changes to the current learni
 <h3>Detailed Videos(Video length>3mins)</h3>
 
 1. User Microservice: https://drive.google.com/file/d/1EmapTouUb0iPVfBJ29Hpdbj1iDIWY6cs/view?usp=sharing
-3. Course Microservice:
+3. Course Microservice: https://drive.google.com/file/d/1r4XZqMt-02JYuKj9Y0H3a2MFIXpIo5Tt/view?usp=sharing
 4. Enrollment Microservice:
 
 Integration of these microservices is under progress.
