@@ -9,11 +9,10 @@ This repository consists of our submission for Hack-The-Space Hackathon conducte
 <b>Creators:</b> Trio of enthusiastic and motivated students who want to innovate and create something essential and useful for the student community!! :)
 
 An educational website which can potentially bring changes to the current learning lifestyle of the students, with simpler and cost-effective teaching. This project is being made with the help of microservices architecture. It will have 3 microservices namely:
-```
+
 1. User Microservice
 2. Courses Microservice
 3. Enrollment Microservice
-```
 
 <b>User Microservice</b> helps in registering a user into the application. It then helps the user to login into his account and have a separate session for themselves. This microservice has an independent database(in this case MongoDB Database) which is responsible for keeping the user credentials only. The password that is stored in the database is encrptyed and hence ensures the security of the users registering on the web-app.  
 
@@ -21,18 +20,18 @@ An educational website which can potentially bring changes to the current learni
 
 <b>Enrollment Microservice</b> will basically transfer the api request to a third party payment service and that will take care of all the payments made by the user and accordingly help in enabling the access for the particular course for the user.
 
-<h4>Uniqueness</h4>
+<h3>Uniqueness of the Application</h3>
 
 1. This application allows any user to upload his course so that others can learn from the same course. (User perspective)
 2. This application uses Microservices architecture which makes it scalable, reliant and robust as compared to Monolithic architectured applications. (Technology perspective)
 
-<h4>Future Work</h4>
+<h3>Future Work</h3>
 
 1. Helping peers to interact with each other and resolve their doubts. They can connect with other peers who are learning the same course. 
 2. Creation of discussions forum. 
 3. Adding some extra features like creation of quizes for easy evaluation. 
 
-<h5>Videos</h5>
+<h3>Videos</h3>
 
 1. User Microservice: 
 2. Course Microservice:
