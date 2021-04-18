@@ -8,7 +8,7 @@ This repository consists of our submission for Hack-The-Space Hackathon conducte
 <h2>Project Description</h2>
 <b>Creators:</b> Trio of enthusiastic and motivated students who want to innovate and create something essential and useful for the student community!! :)
 
-An educational website which can potentially bring changes to the current learning lifestyle of the students, with simpler and cost-effective teaching. This project is being made with the help of microservices architecture. It will have 3 microservices namely:
+An educational website which can potentially bring changes to the current learning lifestyle of the students, with simpler and cost-effective teaching. This project is unlike traditional applications which use monolithic architecture. The distinctiveness of this application lies in the usage of microservices architecture. We have implemented three microservices namely:
 
 1. User Microservice
 2. Courses Microservice
@@ -36,3 +36,5 @@ An educational website which can potentially bring changes to the current learni
 1. User Microservice: 
 2. Course Microservice:
 3. Enrollment Microservice:
+
+Integration of these microservices is under progress.
