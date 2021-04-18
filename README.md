@@ -32,12 +32,13 @@ An educational website which can potentially bring changes to the current learni
 3. Adding some extra features like creation of quizes for easy evaluation. 
 
 <h3>Application Images</h3>
-[index](https://user-images.githubusercontent.com/63536585/115154881-c2e30e00-a09a-11eb-8ccd-eff647dd5180.png)
-[guidelines](https://user-images.githubusercontent.com/63536585/115154936-1b1a1000-a09b-11eb-8cb0-f1ae22ac3347.png)
-[courselandingpage](https://user-images.githubusercontent.com/63536585/115154916-f58d0680-a09a-11eb-8554-fd29dbe21cfc.png)
-[Courselecturevideo](https://user-images.githubusercontent.com/63536585/115154971-47ce2780-a09b-11eb-8697-8ec764178a6e.png)
-[Categorywise courses](https://user-images.githubusercontent.com/63536585/115154992-659b8c80-a09b-11eb-9d00-494ae7967ad5.png)
-[Course Information](https://user-images.githubusercontent.com/63536585/115155031-9380d100-a09b-11eb-959d-d73213086e4e.png)
+
+[Landing Page](https://user-images.githubusercontent.com/63536585/115154881-c2e30e00-a09a-11eb-8ccd-eff647dd5180.png) \
+[Guidelines for a User to upload a course](https://user-images.githubusercontent.com/63536585/115154936-1b1a1000-a09b-11eb-8cb0-f1ae22ac3347.png) \
+[Insertion of a New Course](https://user-images.githubusercontent.com/63536585/115154916-f58d0680-a09a-11eb-8554-fd29dbe21cfc.png) \
+[Insertion of weekly videos in the newly generated Course](https://user-images.githubusercontent.com/63536585/115154971-47ce2780-a09b-11eb-8697-8ec764178a6e.png) \
+[List of courses category wise](https://user-images.githubusercontent.com/63536585/115154992-659b8c80-a09b-11eb-9d00-494ae7967ad5.png) \
+[Course Display](https://user-images.githubusercontent.com/63536585/115155031-9380d100-a09b-11eb-959d-d73213086e4e.png) 
 
 <h3>Videos</h3>
 
