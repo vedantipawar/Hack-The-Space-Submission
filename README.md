@@ -69,6 +69,19 @@ An educational website which can potentially bring changes to the current learni
 
 ![Course Display](https://user-images.githubusercontent.com/63536585/115155031-9380d100-a09b-11eb-959d-d73213086e4e.png) 
 
+<h4>User Dashboard</h4>
+![User dashboard](https://user-images.githubusercontent.com/51786206/115161074-38f66d80-a0b9-11eb-9da9-3afaf2aa2736.png)
+![User dashboard2](https://user-images.githubusercontent.com/51786206/115161078-3f84e500-a0b9-11eb-933a-4065b11fb340.png)
+
+
+<h4>Payment UI</h4>
+![Payment UI](https://user-images.githubusercontent.com/51786206/115161085-490e4d00-a0b9-11eb-8140-bdfb96443743.png)
+
+<h4> Payment page </h4>
+![Payment section](https://user-images.githubusercontent.com/51786206/115161087-4dd30100-a0b9-11eb-92a0-4802e8e3e664.png)
+
+<h4>Razorpay Gateway </h4>
+![Razorpay](https://user-images.githubusercontent.com/51786206/115161092-5297b500-a0b9-11eb-87e5-0e5aa198609f.png)
 
 <h3>Detailed Videos(Video length>3mins)</h3>
 
